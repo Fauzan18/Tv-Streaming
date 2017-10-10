@@ -14,6 +14,16 @@
 		8A1768A91F7809BD003F8CD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768A71F7809BD003F8CD9 /* LaunchScreen.storyboard */; };
 		8A1768B41F7809BD003F8CD9 /* STREAM_TVTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768B31F7809BD003F8CD9 /* STREAM_TVTests.swift */; };
 		8A1768BF1F7809BD003F8CD9 /* STREAM_TVUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768BE1F7809BD003F8CD9 /* STREAM_TVUITests.swift */; };
+		8A1768CD1F780B32003F8CD9 /* STREAMViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768CC1F780B32003F8CD9 /* STREAMViewController.swift */; };
+		8A1768CF1F780B7D003F8CD9 /* Streaming bosq.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768CE1F780B7D003F8CD9 /* Streaming bosq.swift */; };
+		8A1768D11F781213003F8CD9 /* logo-wesal-png.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D01F781213003F8CD9 /* logo-wesal-png.png */; };
+		8A1768D31F78127D003F8CD9 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D21F78127D003F8CD9 /* play.png */; };
+		8A1768D51F7812C8003F8CD9 /* INFO.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D41F7812C8003F8CD9 /* INFO.png */; };
+		8A1768D91F78143D003F8CD9 /* Foto.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D61F78143D003F8CD9 /* Foto.png */; };
+		8A1768DA1F78143D003F8CD9 /* gmail.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D71F78143D003F8CD9 /* gmail.png */; };
+		8A1768DB1F78143D003F8CD9 /* insta.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D81F78143D003F8CD9 /* insta.jpeg */; };
+		AFAC25A51F7AA0E000F40659 /* ASda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAC25A41F7AA0E000F40659 /* ASda.jpg */; };
+		AFAC25AB1F7AA36F00F40659 /* logo-rodjatv.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAC25AA1F7AA36E00F40659 /* logo-rodjatv.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		8A1768BA1F7809BD003F8CD9 /* STREAM TVUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "STREAM TVUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A1768BE1F7809BD003F8CD9 /* STREAM_TVUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STREAM_TVUITests.swift; sourceTree = "<group>"; };
 		8A1768C01F7809BD003F8CD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A1768CC1F780B32003F8CD9 /* STREAMViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STREAMViewController.swift; sourceTree = "<group>"; };
+		8A1768CE1F780B7D003F8CD9 /* Streaming bosq.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Streaming bosq.swift"; sourceTree = "<group>"; };
+		8A1768D01F781213003F8CD9 /* logo-wesal-png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-wesal-png.png"; sourceTree = "<group>"; };
+		8A1768D21F78127D003F8CD9 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		8A1768D41F7812C8003F8CD9 /* INFO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = INFO.png; sourceTree = "<group>"; };
+		8A1768D61F78143D003F8CD9 /* Foto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Foto.png; sourceTree = "<group>"; };
+		8A1768D71F78143D003F8CD9 /* gmail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gmail.png; sourceTree = "<group>"; };
+		8A1768D81F78143D003F8CD9 /* insta.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = insta.jpeg; sourceTree = "<group>"; };
+		AFAC25A41F7AA0E000F40659 /* ASda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ASda.jpg; sourceTree = "<group>"; };
+		AFAC25AA1F7AA36E00F40659 /* logo-rodjatv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-rodjatv.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +123,16 @@
 				8A1768A51F7809BD003F8CD9 /* Assets.xcassets */,
 				8A1768A71F7809BD003F8CD9 /* LaunchScreen.storyboard */,
 				8A1768AA1F7809BD003F8CD9 /* Info.plist */,
+				8A1768CC1F780B32003F8CD9 /* STREAMViewController.swift */,
+				8A1768CE1F780B7D003F8CD9 /* Streaming bosq.swift */,
+				8A1768D01F781213003F8CD9 /* logo-wesal-png.png */,
+				AFAC25A41F7AA0E000F40659 /* ASda.jpg */,
+				AFAC25AA1F7AA36E00F40659 /* logo-rodjatv.png */,
+				8A1768D41F7812C8003F8CD9 /* INFO.png */,
+				8A1768D61F78143D003F8CD9 /* Foto.png */,
+				8A1768D71F78143D003F8CD9 /* gmail.png */,
+				8A1768D81F78143D003F8CD9 /* insta.jpeg */,
+				8A1768D21F78127D003F8CD9 /* play.png */,
 			);
 			path = "STREAM TV";
 			sourceTree = "<group>";
@@ -232,8 +262,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A1768DB1F78143D003F8CD9 /* insta.jpeg in Resources */,
 				8A1768A91F7809BD003F8CD9 /* LaunchScreen.storyboard in Resources */,
+				AFAC25A51F7AA0E000F40659 /* ASda.jpg in Resources */,
+				AFAC25AB1F7AA36F00F40659 /* logo-rodjatv.png in Resources */,
+				8A1768D31F78127D003F8CD9 /* play.png in Resources */,
+				8A1768D11F781213003F8CD9 /* logo-wesal-png.png in Resources */,
+				8A1768D51F7812C8003F8CD9 /* INFO.png in Resources */,
 				8A1768A61F7809BD003F8CD9 /* Assets.xcassets in Resources */,
+				8A1768D91F78143D003F8CD9 /* Foto.png in Resources */,
+				8A1768DA1F78143D003F8CD9 /* gmail.png in Resources */,
 				8A1768A41F7809BD003F8CD9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,7 +297,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A1768CD1F780B32003F8CD9 /* STREAMViewController.swift in Sources */,
 				8A1768A11F7809BD003F8CD9 /* ViewController.swift in Sources */,
+				8A1768CF1F780B7D003F8CD9 /* Streaming bosq.swift in Sources */,
 				8A17689F1F7809BD003F8CD9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -507,6 +547,7 @@
 				8A1768C51F7809BD003F8CD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A1768C61F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TVTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +556,7 @@
 				8A1768C81F7809BD003F8CD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A1768C91F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TVUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +565,7 @@
 				8A1768CB1F7809BD003F8CD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
